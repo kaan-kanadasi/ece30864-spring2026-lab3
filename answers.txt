@@ -1,5 +1,3 @@
-Three different types are sprint planning meetings, daily standup meeting and sprint review meeting. 
-
-In sprint planning meetings, you want to establish what you and your scrum team want to accomplish in this sprint and evaluate the bandwidth you have available.
-In daily standup meeting, you want effective way to keep each team member up-to-speed, on task, and openly communicating with others. The prupose is to keep the sprint on sechule.
-In sprint review meetings, you want to ather feedback and pipoint wwhat things need additional work whcih is going to added to the backlog.
+Epic is a the biggest work that expands onto multiple sprints, which answers what and why at scale.
+A story is a user-facing slice that fits in one sprint, which answers what and why for the user, 
+A task is a technical step that helps complete a story, which answers how to build it.

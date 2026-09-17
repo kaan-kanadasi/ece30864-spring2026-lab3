@@ -1,3 +1,5 @@
-While scrum master focuses on  flow and team effectiveness the product owner focuses on value and outcomes.
-While scrum master clsoely works with devs and prodcuct owners, product owners work with steakholders and users. 
-While scrum master owns product backlog content, product owners own scrum practices
+Three different types are sprint planning meetings, daily standup meeting and sprint review meeting. 
+
+In sprint planning meetings, you want to establish what you and your scrum team want to accomplish in this sprint and evaluate the bandwidth you have available.
+In daily standup meeting, you want effective way to keep each team member up-to-speed, on task, and openly communicating with others. The prupose is to keep the sprint on sechule.
+In sprint review meetings, you want to ather feedback and pipoint wwhat things need additional work whcih is going to added to the backlog.
